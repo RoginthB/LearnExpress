@@ -1,0 +1,27 @@
+.heading{
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+.input{
+    padding:10px 20px;
+    margin: 30px;
+}
+form{
+    position: relative;
+    margin: auto;
+}
+.input-filed{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.submitBtn{
+    padding:10px 20px;
+    background-color: greenyellow;
+    color: green;
+    border: none;
+    border-radius: 20px;
+    box-shadow: rgba(123, 180, 76, 0.89) 2px 2px 5px;
+}
